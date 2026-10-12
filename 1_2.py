@@ -1,3 +1,4 @@
+#this code was made to show difference and how string integer and float works in python
 x = 1.28
 print(type(x))
 y = 79
